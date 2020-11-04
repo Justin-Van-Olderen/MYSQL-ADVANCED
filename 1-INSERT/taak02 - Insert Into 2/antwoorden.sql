@@ -1,1 +1,2 @@
-
+INSERT INTO `studenten`  ( student_id, voornaam , achternaam, klas, adres, postcode, geboortedatum, woonplaats) VALUES (7, 'Jotaro', 'Kujo', ' ', ' ', ' ', '2003-05-19', 'Amsterdam');
+INSERT INTO `studenten`  ( student_id, voornaam , achternaam, klas, adres, postcode, geboortedatum, woonplaats) VALUES (8, 'Jean Pierre', 'Polnareff ', ' ', ' ', ' ', '2002-02-09', 'Amsterdam');
