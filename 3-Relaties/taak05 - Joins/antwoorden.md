@@ -2,11 +2,12 @@
 
 1. Copy paste je gemaakte SQL query hieronder
 
-   SELECT * FROM game JOIN platform ON platform.id = game.platform_id;
+   SELECT * FROM game G LEFT JOIN platform P ON P.id = G.platform_id WHERE G.name LIKE '%Grand Theft Auto%'
 
 2. Copy paste je gemaakte SQL query hieronder
 
-   x
+   
+   
 3. Copy paste je gemaakte SQL query hieronder
 
 
